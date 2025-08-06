@@ -88,3 +88,21 @@ python3 fractal_tree.py
 
 Each script opens a new window and draws a pattern using Turtle.
 
+## Customization
+Each script can be easily customized!
+
+## Common parameters you can tweak:
+* **angle**: turning angle (e.g., 60, 90)
+* **length**: size of line segments
+* **depth**: recursion level (higher = more detail)
+* **rules**: L-system rules (dict)
+* **axiom**: starting symbol
+* **colors**: use t.pencolor() to change drawing color
+
+## Learn More
+* [Lindenmayer System (Wikipedia)](https://en.wikipedia.org/wiki/L-system)
+* [Turtle Graphics in Python Docs](https://docs.python.org/3/library/turtle.html)
+* [Fractals with L-Systems](https://www.youtube.com/watch?v=J0LyZSgVKVc)
+
+## Created for fun by Mack Oyler
+If you found this interesting or educational, feel free to star the repo or fork it and try your own experiments!
